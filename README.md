@@ -1,2 +1,0 @@
-# AMAOEd-CompProg1
- 
